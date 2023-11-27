@@ -36,7 +36,10 @@ The prompt includes several key components:
 Feedback and contributions to this prompt are welcome. Please submit pull requests or issues through GitHub.
 
 ## License
-This prompt is released under [specify license type], which allows for [brief description of the license permissions, limitations, and conditions].
+
+This prompt is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0). This license allows others to share, adapt, and build upon this work, even commercially, as long as they credit Rudi Haarhoff for the original creation. It offers maximum legal protection and flexibility for both users and the creator, and ensures that the work remains free and accessible for a wide audience.
+
+To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
 
 ---
 
